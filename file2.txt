@@ -1,1 +1,5 @@
 This is the second text file.
+
+My name is Jasmine. This is task 1 for HW1.
+
+**My major is Data Theory.**
